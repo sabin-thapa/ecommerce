@@ -1,0 +1,7 @@
+django-import-export
+Django
+django-crispy-forms
+django-allauth
+pep8
+Pillow
+pycodestyle
